@@ -1,3 +1,2 @@
 # visual-configs
 
-github-config
