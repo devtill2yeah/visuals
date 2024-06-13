@@ -1,2 +1,2 @@
-# visual-configs
+# visuals
 
